@@ -12,8 +12,8 @@ cd Pihole-BlacklistRegex-AutomaticAdd/
 sudo chmod a+x piregex.sh
 ```
 
-## Step 2
+## Step 2 - Run
 
 ``` bash
-sudo ./piregex.sh
+./piregex.sh
 ```
