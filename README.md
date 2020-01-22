@@ -7,7 +7,7 @@
 
 ## Step 1
 ``` bash
-git clone https://github.com/tutyamxx/PiHoleRegexAdder.git
+git clone https://github.com/tutyamxx/Pihole-BlacklistRegex-AutomaticAdd.git
 cd PiHoleRegexAdder
 sudo chmod a+x piregex.sh
 ```
