@@ -1,6 +1,7 @@
 # PiHoleRegexAdder
 
-* Safe to use by anyone Regex blockers for Pihole
+* Cool and useful collection of Pihole **Blacklist** Regex (Regular Expressions) that blocks a variety of unwanted things while surfing the web 🏄‍♂️
+* Safe to use by anyone
 
 # How to run
 
