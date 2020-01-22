@@ -1,4 +1,4 @@
-# PiHoleRegexAdder
+# Pihole Blacklist Regex Automatic Adder (for lazy people)
 
 * Cool and useful collection of Pihole **Blacklist** Regex (Regular Expressions) that blocks a variety of unwanted things while surfing the web 🏄‍♂️
 * Safe to use by anyone
